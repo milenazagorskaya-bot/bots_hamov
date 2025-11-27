@@ -1,5 +1,3 @@
-
-
 import telebot
 from config import API_TOKEN
 from telebot.tipes import (ReplyKeyboardMarkup, ReplyKeybordMarkup, ReplyKeyboardRemove, Message)
@@ -54,3 +52,4 @@ def text_message(message: Message:
                      'вы нажали что-то не то'
                 
                  
+
